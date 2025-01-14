@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "rock-p-s-frontend",
+			"path": "rock-p-s-frontend"
+		},
+		{
+			"name": "ws-server",
+			"path": "ws-server"
+		}
+	],
+	"settings": {}
+}
